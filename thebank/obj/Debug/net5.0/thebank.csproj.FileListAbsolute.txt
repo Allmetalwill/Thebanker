@@ -1,0 +1,15 @@
+/Users/caroline/C#-Lesson3/the-banker/thebank/bin/Debug/net5.0/thebank.deps.json
+/Users/caroline/C#-Lesson3/the-banker/thebank/bin/Debug/net5.0/thebank.runtimeconfig.json
+/Users/caroline/C#-Lesson3/the-banker/thebank/bin/Debug/net5.0/thebank.runtimeconfig.dev.json
+/Users/caroline/C#-Lesson3/the-banker/thebank/bin/Debug/net5.0/thebank.dll
+/Users/caroline/C#-Lesson3/the-banker/thebank/bin/Debug/net5.0/ref/thebank.dll
+/Users/caroline/C#-Lesson3/the-banker/thebank/bin/Debug/net5.0/thebank.pdb
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/thebank.csproj.AssemblyReference.cache
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/thebank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/thebank.AssemblyInfoInputs.cache
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/thebank.AssemblyInfo.cs
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/thebank.csproj.CoreCompileInputs.cache
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/thebank.dll
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/ref/thebank.dll
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/thebank.pdb
+/Users/caroline/C#-Lesson3/the-banker/thebank/obj/Debug/net5.0/thebank.genruntimeconfig.cache
